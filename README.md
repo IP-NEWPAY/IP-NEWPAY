@@ -7,4 +7,4 @@ El Directorio del Banco Central de la República Argentina (BCRA) aprobó el pro
 ## Documentacion Transferencia 3.0 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://habrastorage.org/webt/b-/no/wn/b-nownnc3g_qjijctnqqwpjppri.gif?raw=true"></a>
 - Documentacion para  <a href="https://ip-newpay.github.io/Administradores/">Administradores </a> 
 - Documentacion para Administradores <a href="https://ip-newpay.github.io/Billeteras/"> Billeteras</a> 🏓
-- Documentacion para Aceptadores <a href="https://www.linkedin.com/in/monicampowell/">Aceptadores</a> 💼
+- Documentacion para Aceptadores <a href="">Aceptadores</a> 💼
