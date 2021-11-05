@@ -5,6 +5,6 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 
 ## Documentacion Transferencia 3.0 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Documentacion para Billeteras <a href="https://ip-newpay.github.io/Administradores/"> </a> 
+- Documentacion para  <a href="https://ip-newpay.github.io/Administradores/">Billeteras </a> 
 - Documentacion para Administradores <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
 - Documentacion para Aceptadores <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
